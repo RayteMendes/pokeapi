@@ -1,3 +1,4 @@
 # pokeapi
 
-* Raytê e Luiz 
+* Raytê
+* Luiz
